@@ -17,4 +17,4 @@
         <a href="https://www.linkedin.com/in/magno-ot%C3%A1vio-guedes-253832236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  ![Snake animation](https://github.com/moguedes/moguedes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/moguedes/moguedes/blob/main/.github/workflows/main.yml)
