@@ -1,8 +1,8 @@
 ### Hi there! I'm Magno Otávio Guedes 👋
 <div align="center">
   <a href="https://github.com/moguedes/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moguedes&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moguedes&layout=compact&langs_count=7&theme=cobalt2"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=moguedes&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moguedes&layout=compact&langs_count=7&theme=cobalt2"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Magno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
